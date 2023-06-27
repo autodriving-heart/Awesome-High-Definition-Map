@@ -5,15 +5,15 @@
 自动驾驶之心是国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
 
-## 一、**高精地图相关综述** | Survey about High-Definition Map
+## 一、Survey about High-Definition Map
 
-### 1.**地图创建综述** | Survey about Map creation
+### 1. Survey about Map creation
 
 High-Definition Map Generation Technologies for Autonomous Driving
 
-## 二、**基于视觉图像** | Visual-image-based
+## 二、Visual-image-based
 
-### 1.**基于视觉定位** | Visual localization
+### 1. Visual localization
 
 Map-based probabilistic visual self-localization.
 
@@ -25,11 +25,9 @@ Accurate 3-dof camera geo-localization via ground-tosatellite image matching.
 
 Metric localization using google street view
 
-## 三、基于**LiDAR**
+## 三、LiDAR-Based
 
-### 1.基于LiDAR的定位方法
-
-### Localization method based on LiDAR
+### 1. Localization method based on LiDAR
 
 Robust lidar localization for autonomous driving in rain.
 
@@ -41,9 +39,9 @@ L3-net: Towards learning based lidar localization for autonomous driving.
 
 Collaborative semantic perception and relative localization based on map matching
 
-## 四、**基于多模态方法 **| Based on multimodal approach
+## 四、Based on multimodal approach
 
-### 1.**基于多模态的定位方法** | location method
+### 1. location method
 
 Any way you look at it: Semantic cross view localization and mapping with lidar.
 
@@ -61,7 +59,7 @@ Monocular camera localization in prior lidar maps with 2d-3d line correspondence
 
 V2HDM-Mono: A Framework of Building a Marking-Level HD Map with One or More Monocular Cameras
 
-## 五、**代码大全** | Code
+## 五、Code
 
 [[code]]()
 
